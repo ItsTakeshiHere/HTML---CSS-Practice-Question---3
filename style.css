@@ -1,0 +1,24 @@
+body {
+  font-family: Georgia, serif;
+  margin: 2rem;
+  background: #fafafa;
+}
+
+article {
+  max-width: 700px;
+  margin: auto;
+  background: #fff;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+h1 {
+  color: #007bff;
+}
+
+img {
+  width: 100%;
+  border-radius: 6px;
+  margin-top: 1rem;
+}
